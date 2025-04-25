@@ -1,0 +1,23 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "untitle_edc26bac"
+    },
+    {
+      "type": "java",
+      "name": "Run App",
+      "request": "launch",
+      "mainClass": "App",
+      "projectName": "untitle",
+      "classPaths": [
+        "bin",
+        "lib/mysql-connector-j-9.3.0.jar"
+      ]
+    }
+  ]
+}
